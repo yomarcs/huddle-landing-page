@@ -132,7 +132,7 @@ body{
     }
 }
 
-@media screen and (max-width: 1150px){
+/* @media screen and (max-width: 1150px){
 .container{
     width: 800px;
     height: 500px;
@@ -172,7 +172,7 @@ footer{
     display: static;
 }
 }
-
+ */
 @media screen and (max-width: 800px){
 .container{
     width: 300px;
